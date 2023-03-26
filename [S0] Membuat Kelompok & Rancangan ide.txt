@@ -1,0 +1,21 @@
+KELOMPOK F-263
+FEATER CATERING SI4407
+
+
+Dafa Andika				1202204206
+Dyah Arum Lestari			1202204057
+Erlangga Faezal			1202204110
+Feni Juniarti			1202200017
+Fadhlan Putra Gusnadinata	1202204132
+
+
+PEMBAHASAN:
+Kelompok kami mengambil pembahasan tentang Feater Catering yang bertujuan untuk membantu para calon customer dalam memaksimalkan
+program diet dan hidup sehatnya tanpa harus repot memasak makanan yang sehat dan berkelas.
+
+Pembagian tugas:
+	- Dyah Arum Lestari		> Project Manager
+	- Dafa Andika			> Analis
+	- Erlangga Faezal			> Programmer 1
+	- Feni Juniarti			> Programmer 2
+	- Fadhlan Putra Gusnadinata	> Programmer 3
